@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# EXNO 4 Correlation and regression for data analysis
 ## NAME: LATHISH KANNA.M
 ## REG NO: 212222230073
 # Aim : 
